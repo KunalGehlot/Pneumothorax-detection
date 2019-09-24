@@ -1,2 +1,2 @@
-# Pneumothorax detection
- Atttempt to solve the Kaggle problem SIIM-ACR Pneumothorax Segmentation
+# Pneumothorax-detection
+ Attempt to solve KAggle problem SIIM-ACR Pneumothorax Segmentation
